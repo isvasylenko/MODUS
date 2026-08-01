@@ -26,10 +26,10 @@ aliases: [Стратегія]
 
 | ID | Ціль | KPI |
 |---|---|---|
-| [[GOAL-01-Revenue-3.7B]] | Виторг 3.7 млрд грн | ×2 від 2023 |
+| [[GOAL-01-Revenue-3.7B]] | Зростання виторгу (база 2.15 млрд, 2025) | амбіція CEO ×2; ціль-2026 уточнити в AUDIT |
 | [[GOAL-02-QUANTUM-15-AI]] | 15 AI-проєктів QUANTUM | 15 у проді/пілоті |
 | [[GOAL-03-EU-Office-PL]] | Офіс у Польщі | Юрособа + перші контракти |
-| [[GOAL-04-Product-Portfolio]] | Продуктовий портфель | DEEP.HR + One Click standalone |
+| [[GOAL-04-Product-Portfolio]] | Продуктовий портфель | DEEP (модуль DEEP HR) + «компанія в смартфоні» |
 | [[GOAL-05-EU-Compliance]] | EU-ready compliance | ISO 27001 / NIS2 / DORA roadmap |
 
 ```dataview
