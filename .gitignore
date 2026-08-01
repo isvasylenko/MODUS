@@ -7,3 +7,6 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Obsidian app state and plugins (do not publish - may contain API keys)
+.obsidian/
