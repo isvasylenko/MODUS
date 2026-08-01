@@ -16,7 +16,7 @@ aliases: [Cybersecurity]
 
 ## Що включає (L2)
 
-- **SOC as a Service** — 24/7, 137M атак відбито
+- **SOC as a Service** — 24/7, 150+ млн атак відбито (з початку повномасштабної війни)
 - Пентести й vulnerability management (Tenable)
 - DevSecOps у delivery
 - Периметр: Check Point; Zero Trust напрям

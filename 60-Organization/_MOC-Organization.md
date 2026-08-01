@@ -20,15 +20,23 @@ aliases: [Організація, Organization]
 | [[Ivanov-S]] | Head of PMO | [[D02-Business]] |
 | [[Katsiuba-S]] | HR Lead | [[D07-People-Culture]] |
 
+## C-level, відсутні в первинній розвідці (верифіковано modusx.digital/about-us)
+
+| Persona | Роль |
+|---|---|
+| Годованюк Ірина | Chief Commercial Officer |
+| Тихонов Андрій | Chief Delivery Officer of Digital Projects |
+| Пустовітов Олексій | Chief Delivery Officer of Managed Services |
+
 ## Другий рівень
 
 | Persona | Роль |
 |---|---|
-| [[Maliarenko-S]] | Head of SAP Practice |
-| [[Safonov-O]] | Head of IT Operations |
-| [[Chuzhda-V]] | Data Governance / AI CoE |
-| [[Leshchynskyi-O]] | Managed Services / Sales |
-| [[Grebenetskyi-V]] | Technical Support |
+| [[Maliarenko-S]] | Head of SAP |
+| [[Safonov-O]] | Head of IT Operations and Service Delivery |
+| [[Chuzhda-V]] | Data Governance / AI CoE (не верифіковано на about-us) |
+| [[Leshchynskyi-O]] | Managed Services / Sales ⚠️ не верифіковано на about-us |
+| [[Grebenetskyi-V]] | Head of Technical Support |
 
 ## Вакансії / кандидат
 
