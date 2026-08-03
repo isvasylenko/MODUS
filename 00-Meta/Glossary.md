@@ -10,7 +10,7 @@ aliases: [Глосарій]
 |---|---|
 | **EA** | Enterprise Architecture — корпоративна архітектура |
 | **ARB** | Architecture Review Board — операційний орган архітектурних рішень |
-| **CoP** | Community of Practice — спільнота практики (архітектори + tech leads) |
+| **QBR** | Quarterly Business Review — квартальний огляд стратегії, портфеля, KPI та ризиків |
 | **ADR** | Architecture Decision Record — зафіксоване архітектурне рішення |
 | **Capability** | Бізнес-здатність: ЩО компанія вміє робити, незалежно від того ЯК і ХТО |
 | **Value Stream** | Наскрізний потік створення цінності: від тригера до результату для клієнта |

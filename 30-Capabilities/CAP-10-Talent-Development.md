@@ -35,4 +35,4 @@ aliases: [Talent & Development]
 | Аспект | As-Is | To-Be |
 |---|---|---|
 | Зрілість | 3 — сильний HR-бренд (DOU 91% соц.відп.) | 3+ з EA-складовою |
-| Gap | Немає EA skills framework; Architecture NPS не вимірюється | Розвиток через [[Architecture-CoP]] |
+| Gap | Немає EA skills framework; Architecture NPS не вимірюється | Розвиток через архітектурну спільноту |

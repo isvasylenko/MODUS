@@ -17,7 +17,7 @@ aliases: [IT Governance & Architecture]
 ## Що включає (L2)
 
 - IT Strategy формування і актуалізація
-- Architecture governance: [[ARB]] (єдиний новий орган), [[Architecture-CoP]]; стратегічний review — на наявному exec-форумі
+- Architecture governance: два органи — [[ARB]] (операційний) і [[QBR]] (квартальний)
 - [[_MOC-Principles|Architecture Principles]] + ADR-практика
 - Compliance: ISO 27001/9001, GDPR, SOX, NIS2, DORA
 - Внутрішні аудити з рекомендаціями для leadership
