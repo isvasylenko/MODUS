@@ -1,5 +1,5 @@
 ---
-id: PRN-02
+id: AP-02
 type: principle
 status: draft
 approved_by: 
@@ -8,7 +8,7 @@ tags: [modus/principle]
 aliases: [Governance in SDLC]
 ---
 
-# PRN-02 · Governance вбудований у SDLC, а не поверх нього
+# AP-02 · Governance вбудований у SDLC, а не поверх нього
 
 > **Твердження:** архітектурні й security-перевірки — це gates всередині процесу delivery, а не окремий "контроль згори" після факту.
 

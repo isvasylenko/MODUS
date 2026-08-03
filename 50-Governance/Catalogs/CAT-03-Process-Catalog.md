@@ -11,7 +11,7 @@ aliases: [Process Catalog]
 
 # CAT-03 · Process Catalog
 
-> Як працюємо: SDLC, ITSM, delivery — з вбудованими gates ([[PRN-02-Governance-in-SDLC]]).
+> Як працюємо: SDLC, ITSM, delivery — з вбудованими gates ([[AP-02-Governance-in-SDLC]]).
 
 ## Структура запису
 

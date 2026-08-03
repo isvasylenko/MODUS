@@ -35,4 +35,4 @@ aliases: [Project Delivery]
 | Аспект | As-Is | To-Be |
 |---|---|---|
 | Зрілість | 3 — сильний PMO | 4 — quality gates + ARB вбудовані у SDLC |
-| Gap | Архітектурний review не систематичний | [[PRN-02-Governance-in-SDLC]] |
+| Gap | Архітектурний review не систематичний | [[AP-02-Governance-in-SDLC]] |

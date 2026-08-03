@@ -19,7 +19,7 @@ aliases: [Семантична модель, Metamodel]
 | `capability` | `CAP-` | `30-Capabilities` | Бізнес-здатність (ЩО вміє компанія, не ЯК) |
 | `ea-domain` | `D0x-` | `40-EA-Domains` | Домен авторської 7-доменної моделі EA |
 | `governance-body` | — | `50-Governance/Bodies` | Орган прийняття рішень (ARB, CoP) |
-| `principle` | `PRN-` | `50-Governance/Principles` | Архітектурний принцип |
+| `principle` | `AP-` | `50-Governance/Principles` | Архітектурний принцип |
 | `adr` | `ADR-` | `50-Governance/ADR` | Architecture Decision Record |
 | `catalog` | `CAT-` | `50-Governance/Catalogs` | Каталог / модель — єдине джерело правди |
 | `persona` | — | `60-Organization/Personas` | Людина-власник ролі |

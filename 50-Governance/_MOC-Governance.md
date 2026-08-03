@@ -24,7 +24,7 @@ aliases: [Governance, Operating Model]
 
 ### Процеси · Контроль
 
-- Compliance Review — quality gates у SDLC ([[PRN-02-Governance-in-SDLC]])
+- Compliance Review — quality gates у SDLC ([[AP-02-Governance-in-SDLC]])
 - Roadmap governance — 90 / 180 / 365 днів
 - Metrics dashboard — ARB coverage, Governance NPS, техборг
 

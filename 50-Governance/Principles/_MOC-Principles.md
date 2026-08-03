@@ -10,8 +10,8 @@ aliases: [Architecture Principles]
 
 ## Драфти
 
-- [[PRN-01-Reuse-Before-Build]] — Reuse → Buy → Build
-- [[PRN-02-Governance-in-SDLC]] — Governance вбудований у SDLC
+- [[AP-01-Reuse-Buy-Build]] — Reuse → Buy → Build
+- [[AP-02-Governance-in-SDLC]] — Governance вбудований у SDLC
 
 ## Кандидати (винести на квартальний exec-форум)
 

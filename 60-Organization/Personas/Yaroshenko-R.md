@@ -19,4 +19,4 @@ aliases: [Ярошенко]
 ## Контекст для діалогу
 
 - Новий у ролі — формує порядок денний: вікно можливостей для спільної compliance-стратегії
-- Цінність від ролі: [[GOAL-05-EU-Compliance]] roadmap робиться разом, а не нав'язується; security gate у SDLC ([[PRN-02-Governance-in-SDLC]]) — спільна перемога
+- Цінність від ролі: [[GOAL-05-EU-Compliance]] roadmap робиться разом, а не нав'язується; security gate у SDLC ([[AP-02-Governance-in-SDLC]]) — спільна перемога

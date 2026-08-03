@@ -31,4 +31,4 @@ aliases: [Deliver Solutions]
 ## Болі / вузькі місця
 
 - Архітектурні рішення ситуативні (питання для діалогу в [[D04-Application]]) → ADR-практика
-- Quality gates нерівномірні між командами → [[PRN-02-Governance-in-SDLC]]
+- Quality gates нерівномірні між командами → [[AP-02-Governance-in-SDLC]]

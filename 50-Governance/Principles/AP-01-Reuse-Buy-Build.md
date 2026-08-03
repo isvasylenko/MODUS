@@ -1,5 +1,5 @@
 ---
-id: PRN-01
+id: AP-01
 type: principle
 status: draft
 approved_by: 
@@ -8,7 +8,7 @@ tags: [modus/principle]
 aliases: [Reuse Before Build]
 ---
 
-# PRN-01 · Reuse → Buy → Build
+# AP-01 · Reuse → Buy → Build
 
 > **Твердження:** перш ніж будувати нове, доведи, що не можна перевикористати наявне (120 рішень!) або купити готове.
 

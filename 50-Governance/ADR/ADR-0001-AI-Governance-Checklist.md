@@ -5,7 +5,7 @@ status: proposed
 date: 
 decided_by: "[[ARB]]"
 affects: ["[[D03-Data-AI]]"]
-principles: ["[[PRN-02-Governance-in-SDLC]]"]
+principles: ["[[AP-02-Governance-in-SDLC]]"]
 tags: [modus/adr]
 aliases: [AI Governance Checklist]
 ---
@@ -39,4 +39,4 @@ aliases: [AI Governance Checklist]
 
 ## Зв'язки
 
-- Принципи: [[PRN-02-Governance-in-SDLC]] · Домени: [[D03-Data-AI]] · Ціль: [[GOAL-02-QUANTUM-15-AI]]
+- Принципи: [[AP-02-Governance-in-SDLC]] · Домени: [[D03-Data-AI]] · Ціль: [[GOAL-02-QUANTUM-15-AI]]
