@@ -13,7 +13,7 @@ aliases: [Architecture Principles]
 - [[PRN-01-Reuse-Before-Build]] — Reuse → Buy → Build
 - [[PRN-02-Governance-in-SDLC]] — Governance вбудований у SDLC
 
-## Кандидати (обговорити на [[ASC]])
+## Кандидати (винести на квартальний exec-форум)
 
 | # | Кандидат | Драйвер |
 |---|---|---|

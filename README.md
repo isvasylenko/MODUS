@@ -13,7 +13,7 @@
 | `20-Value-Chain` | Ланцюжок створення цінності — value streams (VS) |
 | `30-Capabilities` | Capability Map — бізнес-здатності (CAP) |
 | `40-EA-Domains` | Авторська 7-доменна модель EA (D01–D07) + As-Is assessment |
-| `50-Governance` | Bodies (ARB/ASC/CoP), Principles (PRN), ADR, 10 каталогів |
+| `50-Governance` | Bodies (ARB/CoP), Principles (PRN), ADR, 10 каталогів |
 | `60-Organization` | Оргструктура та персони-власники |
 | `90-Research` | Сирі дослідження й джерела |
 

@@ -34,4 +34,4 @@ aliases: [Architecture Review Board]
 
 ## Зв'язки
 
-- Рішення фіксуються: [[_MOC-ADR|ADR]] · Скеровується: [[_MOC-Principles|Principles]] · Ескалація: [[ASC]]
+- Рішення фіксуються: [[_MOC-ADR|ADR]] · Скеровується: [[_MOC-Principles|Principles]] · Ескалація: наявний quarterly exec-форум

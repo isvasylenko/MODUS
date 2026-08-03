@@ -24,7 +24,7 @@ aliases: [Capabilities Catalog]
 
 ## Власник і ритм оновлення
 
-- Власник: [[Ivanov-S]] (Business domain) · Оновлення: щоквартально, review на [[ASC]]
+- Власник: [[Ivanov-S]] (Business domain) · Оновлення: щоквартально, review на exec-форумі
 
 ## Використання
 
