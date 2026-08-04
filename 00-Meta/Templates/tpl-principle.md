@@ -4,7 +4,7 @@ type: principle
 status: draft   # draft | approved
 approved_by: 
 applies_to: []
-tags: [modus/principle]
+tags: [modus/type/principle, modus/contour/govern]
 aliases: []
 ---
 

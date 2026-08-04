@@ -2,10 +2,10 @@
 id: CAT-02
 type: catalog
 status: draft
-owner: "[[Leshchynskyi-O]]"
+owner: "[[ROLE-10-Head-of-Managed-Services]]"
 describes: ["[[D02-Business]]"]
 update_cadence: щоквартально
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d02]
 aliases: [Service Catalog]
 ---
 
@@ -24,7 +24,7 @@ aliases: [Service Catalog]
 
 ## Власник і ритм оновлення
 
-- Власник: [[Leshchynskyi-O]] (Managed Services / Sales) · Оновлення: щоквартально
+- Власник: [[ROLE-10-Head-of-Managed-Services]] (Managed Services / Sales) · Оновлення: щоквартально
 
 ## Використання
 

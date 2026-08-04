@@ -4,10 +4,10 @@ type: goal
 status: active
 horizon: 2026
 vector: "[[Vision-2026]]"
-owner: "[[Osyka-D]]"
+owner: "[[ROLE-01-CEO]]"
 realized_in: ["[[VS-01-Win-Business]]", "[[VS-02-Deliver-Solutions]]", "[[VS-03-Operate-Support]]"]
 kpi: Зростання виторгу з бази 2.15 млрд грн (2025); ціль-2026 уточнити в AUDIT
-tags: [modus/goal]
+tags: [modus/type/goal, modus/d01, modus/d02]
 aliases: [Виторг 3.7 млрд]
 ---
 

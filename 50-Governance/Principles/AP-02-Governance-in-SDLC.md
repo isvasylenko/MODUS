@@ -4,7 +4,7 @@ type: principle
 status: draft
 approved_by: 
 applies_to: ["[[D02-Business]]", "[[D04-Application]]", "[[D06-Security]]"]
-tags: [modus/principle]
+tags: [modus/type/principle, modus/d02, modus/d04, modus/d06, modus/contour/govern]
 aliases: [Governance in SDLC]
 ---
 

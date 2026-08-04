@@ -6,7 +6,7 @@ date:
 decided_by: "[[ARB]]"
 affects: ["[[D03-Data-AI]]"]
 principles: ["[[AP-02-Governance-in-SDLC]]"]
-tags: [modus/adr]
+tags: [modus/type/adr, modus/d03, modus/contour/govern]
 aliases: [AI Governance Checklist]
 ---
 
@@ -35,7 +35,7 @@ aliases: [AI Governance Checklist]
 ## Наслідки
 
 - Позитивні: аудитовність для EU, порівнюваність проєктів, готовність до AI Act
-- Негативні: +0.5–1 день на проєкт на проходження gates; потреба у власнику чеклиста ([[Chuzhda-V]] / AI CoE)
+- Негативні: +0.5–1 день на проєкт на проходження gates; потреба у власнику чеклиста ([[ROLE-11-Data-Governance-Lead]] / AI CoE)
 
 ## Зв'язки
 

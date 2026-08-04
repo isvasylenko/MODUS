@@ -2,10 +2,10 @@
 id: CAT-10
 type: catalog
 status: draft
-owner: "[[Garkavyi-D]]"
+owner: "[[ROLE-05-Head-of-Infrastructure]]"
 describes: ["[[D05-Technology]]"]
 update_cadence: щоквартально
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d05]
 aliases: [Technology Radar]
 ---
 
@@ -23,7 +23,7 @@ aliases: [Technology Radar]
 
 ## Власник і ритм оновлення
 
-- Власник: [[Garkavyi-D]] (пропозиції від архітекторів і tech leads) · Оновлення: щоквартально
+- Власник: [[ROLE-05-Head-of-Infrastructure]] (пропозиції від архітекторів і tech leads) · Оновлення: щоквартально
 
 ## Використання
 

@@ -4,8 +4,8 @@ type: vector
 status: active
 goals: ["[[GOAL-03-EU-Office-PL]]", "[[GOAL-05-EU-Compliance]]"]
 enabled_by: ["[[CAP-01-Client-Engagement]]", "[[CAP-11-IT-Governance-Architecture]]", "[[CAP-07-Cybersecurity]]"]
-owner: "[[Osyka-D]]"
-tags: [modus/vector]
+owner: "[[ROLE-01-CEO]]"
+tags: [modus/type/vector, modus/d01, modus/d02, modus/d06]
 aliases: [EU Expansion]
 ---
 

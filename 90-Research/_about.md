@@ -1,6 +1,6 @@
 ---
 type: meta
-tags: [modus/meta]
+tags: [modus/type/meta]
 aliases: [Research]
 ---
 

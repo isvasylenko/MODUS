@@ -4,9 +4,9 @@ type: ea-domain
 status: active
 asis: red
 maturity: 2
-owner: "[[Katsiuba-S]]"
+owner: "[[ROLE-07-HR-Lead]]"
 org_units: ["HR", "Talent Acquisition", "Communications", "DTEK Academy"]
-tags: [modus/domain, modus/asis/red]
+tags: [modus/type/domain, modus/d07, modus/asis/red]
 aliases: [People & Culture Domain]
 ---
 
@@ -19,11 +19,11 @@ aliases: [People & Culture Domain]
 - Сильний HR-бренд (DOU 91% соц. відповідальність, DTEK Academy)
 - Але: EA skills framework відсутній, Architecture NPS не вимірюється, архітектурна спільнота не інституціоналізована
 
-## Підрозділи і власники
+## Підрозділи і ролі-власники
 
-| Підрозділ | Керівник |
+| Підрозділ | Роль-власник |
 |---|---|
-| HR · Talent Acquisition · Communications · DTEK Academy | [[Katsiuba-S]] |
+| HR · Talent Acquisition · Communications · DTEK Academy | [[ROLE-07-HR-Lead]] |
 
 ## Питання для діалогу
 

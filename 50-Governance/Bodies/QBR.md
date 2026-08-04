@@ -3,7 +3,7 @@ type: governance-body
 status: draft
 cadence: щоквартально
 level: стратегічний
-tags: [modus/governance]
+tags: [modus/type/body, modus/contour/govern]
 aliases: [QBR, Quarterly Business Review]
 ---
 

@@ -6,7 +6,7 @@ trigger: ""
 outcome: ""
 enabled_by: []
 owner: 
-tags: [modus/value-stream]
+tags: [modus/type/value-stream]
 aliases: []
 ---
 

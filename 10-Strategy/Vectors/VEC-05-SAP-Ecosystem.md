@@ -4,8 +4,8 @@ type: vector
 status: active
 goals: ["[[GOAL-01-Revenue-3.7B]]"]
 enabled_by: ["[[CAP-03-Business-Applications]]"]
-owner: "[[Maliarenko-S]]"
-tags: [modus/vector]
+owner: "[[ROLE-09-Head-of-SAP-Practice]]"
+tags: [modus/type/vector, modus/d01, modus/d04]
 aliases: [SAP Ecosystem]
 ---
 

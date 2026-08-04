@@ -4,9 +4,9 @@ type: ea-domain
 status: active
 asis: amber
 maturity: 3
-owner: "[[Garkavyi-D]]"
+owner: "[[ROLE-05-Head-of-Infrastructure]]"
 org_units: ["Infrastructure & Cloud", "IT Operations", "Service Delivery"]
-tags: [modus/domain, modus/asis/amber]
+tags: [modus/type/domain, modus/d05, modus/asis/amber]
 aliases: [Technology Domain]
 ---
 
@@ -20,12 +20,12 @@ aliases: [Technology Domain]
 - MS Solutions Partner (Infra) — підтверджена експертиза
 - Cloud Governance / FinOps — невідомо
 
-## Підрозділи і власники
+## Підрозділи і ролі-власники
 
-| Підрозділ | Керівник |
+| Підрозділ | Роль-власник |
 |---|---|
-| Infrastructure & Cloud | [[Garkavyi-D]] |
-| IT Operations · Service Delivery | [[Safonov-O]] |
+| Infrastructure & Cloud | [[ROLE-05-Head-of-Infrastructure]] |
+| IT Operations · Service Delivery | [[ROLE-08-Head-of-IT-Operations]] |
 
 ## Питання для діалогу
 

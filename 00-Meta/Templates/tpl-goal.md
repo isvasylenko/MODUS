@@ -7,7 +7,7 @@ vector:
 owner: 
 realized_in: []
 kpi: ""
-tags: [modus/goal]
+tags: [modus/type/goal]
 aliases: []
 ---
 

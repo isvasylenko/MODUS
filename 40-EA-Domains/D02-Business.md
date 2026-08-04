@@ -4,9 +4,9 @@ type: ea-domain
 status: active
 asis: amber
 maturity: 3
-owner: "[[Ivanov-S]]"
+owner: "[[ROLE-02-Head-of-PMO]]"
 org_units: ["PMO", "Delivery", "Sales", "Managed Services", "Technical Support"]
-tags: [modus/domain, modus/asis/amber]
+tags: [modus/type/domain, modus/d02, modus/asis/amber]
 aliases: [Business Domain]
 ---
 
@@ -19,13 +19,13 @@ aliases: [Business Domain]
 - Сильний delivery (4000+ проєктів) і PMO
 - Capability Map для зовнішнього продажу — невідомо; Service Catalog з pricing — невідомо
 
-## Підрозділи і власники
+## Підрозділи і ролі-власники
 
-| Підрозділ | Керівник |
+| Підрозділ | Роль-власник |
 |---|---|
-| PMO · Delivery | [[Ivanov-S]] |
-| Sales · Managed Services | [[Leshchynskyi-O]] |
-| Technical Support | [[Grebenetskyi-V]] |
+| PMO · Delivery | [[ROLE-02-Head-of-PMO]] |
+| Sales · Managed Services | [[ROLE-10-Head-of-Managed-Services]] |
+| Technical Support | [[ROLE-12-Head-of-Technical-Support]] |
 
 ## Питання для діалогу
 

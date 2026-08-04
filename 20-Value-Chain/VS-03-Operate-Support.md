@@ -5,8 +5,8 @@ status: active
 trigger: "Інцидент / сервісний запит / моніторинговий сигнал"
 outcome: "Стабільний сервіс у межах SLA"
 enabled_by: ["[[CAP-08-Managed-Services]]", "[[CAP-06-Cloud-Infrastructure]]", "[[CAP-07-Cybersecurity]]"]
-owner: "[[Safonov-O]]"
-tags: [modus/value-stream]
+owner: "[[ROLE-08-Head-of-IT-Operations]]"
+tags: [modus/type/value-stream, modus/d02, modus/d05]
 aliases: [Operate & Support]
 ---
 

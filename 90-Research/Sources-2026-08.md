@@ -1,6 +1,6 @@
 ---
 type: reference
-tags: [modus/meta]
+tags: [modus/type/reference]
 aliases: [Джерела розвідки 08.2026]
 ---
 
@@ -38,5 +38,5 @@ aliases: [Джерела розвідки 08.2026]
 4. Атаки: 150+ млн, не 137М
 5. «One Click 10K users» → «Компанія у смартфоні» 25K MAU
 6. MS Solutions Partner → Indirect Reseller (CSP)
-7. Leadership: + Годованюк (CCO), Тихонов (CDO Digital), Пустовітов (CDO Managed Services); Leshchynskyi не на about-us
+7. Leadership: на about-us додатково підтверджено ролі CCO, CDO Digital Projects, CDO Managed Services. Персональні дані у vault не зберігаються — див. [[_MOC-Organization]]
 8. AI governance частково існує (Quantum-воронка) — питання діалогу скориговано

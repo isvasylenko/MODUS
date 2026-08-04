@@ -5,8 +5,8 @@ status: active
 trigger: "Ідея / внутрішнє рішення з потенціалом (пул 77)"
 outcome: "Standalone продукт на ринку з recurring-виручкою"
 enabled_by: ["[[CAP-09-Product-Management]]", "[[CAP-03-Business-Applications]]", "[[CAP-04-Data-Analytics]]"]
-owner: "[[Osyka-D]]"
-tags: [modus/value-stream]
+owner: "[[ROLE-01-CEO]]"
+tags: [modus/type/value-stream, modus/d02, modus/d04]
 aliases: [Develop Products]
 ---
 

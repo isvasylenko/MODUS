@@ -6,7 +6,7 @@ maturity:
 owner: 
 domains: []
 supports: []
-tags: [modus/capability]
+tags: [modus/type/capability]
 aliases: []
 ---
 

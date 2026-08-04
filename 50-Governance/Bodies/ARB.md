@@ -3,7 +3,7 @@ type: governance-body
 status: draft
 cadence: "раз на 2 тижні"
 level: операційний
-tags: [modus/governance]
+tags: [modus/type/body, modus/contour/govern]
 aliases: [Architecture Review Board]
 ---
 

@@ -3,10 +3,10 @@ id: CAP-06
 type: capability
 status: active
 maturity: 3
-owner: "[[Garkavyi-D]]"
+owner: "[[ROLE-05-Head-of-Infrastructure]]"
 domains: ["[[D05-Technology]]"]
 supports: ["[[VS-02-Deliver-Solutions]]", "[[VS-03-Operate-Support]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d05]
 aliases: [Cloud & Infrastructure]
 ---
 

@@ -4,10 +4,10 @@ type: goal
 status: active
 horizon: 2026
 vector: "[[VEC-02-EU-Expansion]]"
-owner: "[[Osyka-D]]"
+owner: "[[ROLE-01-CEO]]"
 realized_in: ["[[VS-01-Win-Business]]"]
 kpi: "Юрособа в PL + перші контракти"
-tags: [modus/goal]
+tags: [modus/type/goal, modus/d01, modus/d02]
 aliases: [EU офіс Польща]
 ---
 

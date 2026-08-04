@@ -4,10 +4,10 @@ type: goal
 status: active
 horizon: 2026
 vector: "[[VEC-01-AI-First]]"
-owner: "[[Vyntu-V]]"
+owner: "[[ROLE-03-CDO]]"
 realized_in: ["[[VS-02-Deliver-Solutions]]", "[[VS-04-Develop-Products]]"]
 kpi: "15 AI-проєктів QUANTUM у 2026"
-tags: [modus/goal]
+tags: [modus/type/goal, modus/d01, modus/d03]
 aliases: [QUANTUM 15 AI]
 ---
 

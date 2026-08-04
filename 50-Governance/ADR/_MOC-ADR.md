@@ -1,6 +1,6 @@
 ---
 type: moc
-tags: [modus/meta]
+tags: [modus/type/moc]
 aliases: [ADR, ADR Repository]
 ---
 

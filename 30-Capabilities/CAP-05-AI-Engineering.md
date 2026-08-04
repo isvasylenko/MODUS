@@ -3,10 +3,10 @@ id: CAP-05
 type: capability
 status: active
 maturity: 2
-owner: "[[Vyntu-V]]"
+owner: "[[ROLE-03-CDO]]"
 domains: ["[[D03-Data-AI]]"]
 supports: ["[[VS-02-Deliver-Solutions]]", "[[VS-04-Develop-Products]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d03]
 aliases: [AI Engineering]
 ---
 

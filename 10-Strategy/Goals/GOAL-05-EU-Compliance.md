@@ -4,10 +4,10 @@ type: goal
 status: active
 horizon: 2026
 vector: "[[VEC-02-EU-Expansion]]"
-owner: "[[Yaroshenko-R]]"
+owner: "[[ROLE-06-CISO]]"
 realized_in: ["[[VS-05-Protect-24x7]]"]
 kpi: "ISO 27001 підтверджено · NIS2/DORA roadmap затверджено"
-tags: [modus/goal]
+tags: [modus/type/goal, modus/d01, modus/d06]
 aliases: [EU Compliance]
 ---
 

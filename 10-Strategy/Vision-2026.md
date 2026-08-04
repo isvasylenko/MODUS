@@ -3,7 +3,7 @@ type: vision
 horizon: 2026
 status: active
 vectors: ["[[VEC-01-AI-First]]", "[[VEC-02-EU-Expansion]]", "[[VEC-03-Service-to-Product]]", "[[VEC-04-Cybersec-as-a-Service]]", "[[VEC-05-SAP-Ecosystem]]"]
-tags: [modus/vision]
+tags: [modus/type/vision, modus/d01]
 aliases: [Візія 2026]
 ---
 
@@ -21,7 +21,7 @@ aliases: [Візія 2026]
 
 ## Больова точка CEO
 
-> «Все потрібно систематизувати, інакше хаос» — Осика Д., Interfax-UA, березень 2025
+> «Все потрібно систематизувати, інакше хаос» — CEO MODUS X, Interfax-UA, березень 2025
 
 Саме тому стратегічний шар цього vault закінчується не цілями, а [[_MOC-Governance|операційною моделлю governance]]: цілі без системи прийняття рішень не масштабуються.
 

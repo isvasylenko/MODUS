@@ -3,10 +3,10 @@ id: CAP-11
 type: capability
 status: draft
 maturity: 1
-owner: "[[Vasylenko-Y]]"
+owner: "[[ROLE-13-IT-Strategy-Governance-Leader]]"
 domains: ["[[D01-Strategy]]"]
 supports: ["[[VS-01-Win-Business]]", "[[VS-02-Deliver-Solutions]]", "[[VS-04-Develop-Products]]", "[[VS-05-Protect-24x7]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d01]
 aliases: [IT Governance & Architecture]
 ---
 

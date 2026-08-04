@@ -5,8 +5,8 @@ status: active
 trigger: "Підписаний контракт"
 outcome: "Рішення в продуктиві, прийняте клієнтом"
 enabled_by: ["[[CAP-02-Project-Delivery]]", "[[CAP-03-Business-Applications]]", "[[CAP-05-AI-Engineering]]", "[[CAP-06-Cloud-Infrastructure]]"]
-owner: "[[Ivanov-S]]"
-tags: [modus/value-stream]
+owner: "[[ROLE-02-Head-of-PMO]]"
+tags: [modus/type/value-stream, modus/d02, modus/d04]
 aliases: [Deliver Solutions]
 ---
 

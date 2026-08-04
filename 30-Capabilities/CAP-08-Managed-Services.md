@@ -3,10 +3,10 @@ id: CAP-08
 type: capability
 status: active
 maturity: 3
-owner: "[[Safonov-O]]"
+owner: "[[ROLE-08-Head-of-IT-Operations]]"
 domains: ["[[D02-Business]]", "[[D05-Technology]]"]
 supports: ["[[VS-03-Operate-Support]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d02, modus/d05]
 aliases: [Managed Services]
 ---
 

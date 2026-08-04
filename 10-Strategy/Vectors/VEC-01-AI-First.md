@@ -4,8 +4,8 @@ type: vector
 status: active
 goals: ["[[GOAL-02-QUANTUM-15-AI]]"]
 enabled_by: ["[[CAP-05-AI-Engineering]]", "[[CAP-04-Data-Analytics]]"]
-owner: "[[Vyntu-V]]"
-tags: [modus/vector]
+owner: "[[ROLE-03-CDO]]"
+tags: [modus/type/vector, modus/d01, modus/d03]
 aliases: [AI-First]
 ---
 

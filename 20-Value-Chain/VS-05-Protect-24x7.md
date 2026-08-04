@@ -5,8 +5,8 @@ status: active
 trigger: "Кіберзагроза / вимога compliance"
 outcome: "Захищені клієнти і власна інфраструктура; підтверджена відповідність"
 enabled_by: ["[[CAP-07-Cybersecurity]]", "[[CAP-11-IT-Governance-Architecture]]"]
-owner: "[[Yaroshenko-R]]"
-tags: [modus/value-stream]
+owner: "[[ROLE-06-CISO]]"
+tags: [modus/type/value-stream, modus/d02, modus/d06]
 aliases: [Protect 24/7]
 ---
 

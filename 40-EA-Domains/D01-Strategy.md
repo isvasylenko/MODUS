@@ -4,9 +4,9 @@ type: ea-domain
 status: active
 asis: amber
 maturity: 2
-owner: "[[Osyka-D]]"
+owner: "[[ROLE-01-CEO]]"
 org_units: ["CEO office", "Стратегічне планування"]
-tags: [modus/domain, modus/asis/amber]
+tags: [modus/type/domain, modus/d01, modus/asis/amber]
 aliases: [Strategy Domain]
 ---
 
@@ -19,11 +19,11 @@ aliases: [Strategy Domain]
 - Стратегічні вектори артикульовані публічно (CEO-інтерв'ю), але формалізована IT Strategy як документ — невідомо
 - Цілі зростання агресивні (×2), систематизація — визнаний біль CEO
 
-## Підрозділи і власники
+## Підрозділи і ролі-власники
 
-| Підрозділ | Керівник |
+| Підрозділ | Роль-власник |
 |---|---|
-| CEO office | [[Osyka-D]] |
+| CEO office | [[ROLE-01-CEO]] |
 | Стратегічне планування | — |
 
 ## Питання для діалогу

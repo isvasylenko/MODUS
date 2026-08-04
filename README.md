@@ -14,7 +14,7 @@
 | `30-Capabilities` | Capability Map — бізнес-здатності (CAP) |
 | `40-EA-Domains` | Авторська 7-доменна модель EA (D01–D07) + As-Is assessment |
 | `50-Governance` | Bodies (ARB/QBR), Principles (AP), ADR, 10 каталогів |
-| `60-Organization` | Оргструктура та персони-власники |
+| `60-Organization` | Оргюніти та ролі-власники (ROLE) — **без персональних даних** |
 | `90-Research` | Сирі дослідження й джерела |
 
 ## Семантичний ланцюг
@@ -24,7 +24,7 @@ Vision → Vectors → Goals → Value Streams → Capabilities → EA Domains
                                                 ↑
                             Governance (ARB · ADR · Principles · Catalogs)
                                                 ↑
-                                    Organization (Units · Personas)
+                                    Organization (Units · Roles)
 ```
 
 Повна метамодель: [00-Meta/Semantic-Model.md](00-Meta/Semantic-Model.md)

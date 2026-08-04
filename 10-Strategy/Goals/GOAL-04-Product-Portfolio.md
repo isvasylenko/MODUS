@@ -4,10 +4,10 @@ type: goal
 status: active
 horizon: 2026
 vector: "[[VEC-03-Service-to-Product]]"
-owner: "[[Osyka-D]]"
+owner: "[[ROLE-01-CEO]]"
 realized_in: ["[[VS-04-Develop-Products]]"]
 kpi: "DEEP.HR + One Click як standalone продукти"
-tags: [modus/goal]
+tags: [modus/type/goal, modus/d01, modus/d02, modus/d04]
 aliases: [Продуктовий портфель]
 ---
 

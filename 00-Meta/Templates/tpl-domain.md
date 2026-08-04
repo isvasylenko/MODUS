@@ -6,7 +6,7 @@ asis: amber
 maturity: 
 owner: 
 org_units: []
-tags: [modus/domain, modus/asis/amber]
+tags: [modus/type/domain, modus/asis/amber]
 aliases: []
 ---
 

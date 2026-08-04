@@ -5,8 +5,8 @@ status: active
 trigger: "Лід / запит клієнта (UA або EU)"
 outcome: "Підписаний контракт з реалістичним scope"
 enabled_by: ["[[CAP-01-Client-Engagement]]", "[[CAP-11-IT-Governance-Architecture]]", "[[CAP-02-Project-Delivery]]"]
-owner: "[[Ivanov-S]]"
-tags: [modus/value-stream]
+owner: "[[ROLE-02-Head-of-PMO]]"
+tags: [modus/type/value-stream, modus/d02]
 aliases: [Win Business]
 ---
 

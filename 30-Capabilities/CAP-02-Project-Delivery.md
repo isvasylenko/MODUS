@@ -3,10 +3,10 @@ id: CAP-02
 type: capability
 status: active
 maturity: 3
-owner: "[[Ivanov-S]]"
+owner: "[[ROLE-02-Head-of-PMO]]"
 domains: ["[[D02-Business]]"]
 supports: ["[[VS-01-Win-Business]]", "[[VS-02-Deliver-Solutions]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d02]
 aliases: [Project Delivery]
 ---
 

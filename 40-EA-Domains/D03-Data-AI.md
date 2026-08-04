@@ -4,9 +4,9 @@ type: ea-domain
 status: active
 asis: red
 maturity: 2
-owner: "[[Vyntu-V]]"
+owner: "[[ROLE-03-CDO]]"
 org_units: ["Chief Data Office", "AI CoE", "Data Science", "Data Governance"]
-tags: [modus/domain, modus/asis/red]
+tags: [modus/type/domain, modus/d03, modus/asis/red]
 aliases: [Data & AI Domain]
 ---
 
@@ -20,12 +20,12 @@ aliases: [Data & AI Domain]
 - Chief Data Office існує (banking background у CDO — плюс для data governance)
 - Data Catalog / Semantic Model — невідомо
 
-## Підрозділи і власники
+## Підрозділи і ролі-власники
 
-| Підрозділ | Керівник |
+| Підрозділ | Роль-власник |
 |---|---|
-| Chief Data Office | [[Vyntu-V]] |
-| AI CoE · Data Science · Data Governance | [[Chuzhda-V]] |
+| Chief Data Office | [[ROLE-03-CDO]] |
+| AI CoE · Data Science · Data Governance | [[ROLE-11-Data-Governance-Lead]] |
 
 ## Питання для діалогу
 

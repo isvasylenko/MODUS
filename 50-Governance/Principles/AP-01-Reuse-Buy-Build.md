@@ -4,7 +4,7 @@ type: principle
 status: draft
 approved_by: 
 applies_to: ["[[D04-Application]]", "[[D05-Technology]]"]
-tags: [modus/principle]
+tags: [modus/type/principle, modus/d04, modus/d05, modus/contour/govern]
 aliases: [Reuse Before Build]
 ---
 

@@ -4,8 +4,8 @@ type: vector
 status: active
 goals: ["[[GOAL-01-Revenue-3.7B]]"]
 enabled_by: ["[[CAP-07-Cybersecurity]]", "[[CAP-08-Managed-Services]]"]
-owner: "[[Yaroshenko-R]]"
-tags: [modus/vector]
+owner: "[[ROLE-06-CISO]]"
+tags: [modus/type/vector, modus/d01, modus/d06]
 aliases: [Cybersec as a Service]
 ---
 

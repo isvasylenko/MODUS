@@ -1,6 +1,6 @@
 ---
 type: meta
-tags: [modus/meta]
+tags: [modus/type/meta]
 aliases: [Конвенції, Naming]
 ---
 
@@ -20,20 +20,45 @@ aliases: [Конвенції, Naming]
 id: CAP-05            # унікальний ідентифікатор
 type: capability      # тип сутності (див. Semantic-Model)
 status: active        # active | draft | deprecated
-owner: "[[Vyntu-V]]"  # власник (wikilink у лапках!)
-tags: [modus/capability]
+owner: "[[ROLE-03-CDO]]"  # власник (wikilink у лапках!)
+tags: [modus/type/capability, modus/d03]
 aliases: [AI Engineering]
 ---
 ```
 
 ⚠️ Wikilinks у frontmatter — **завжди в лапках**: `"[[Note]]"`, інакше YAML ламається.
 
-## Теги
+## Теги — три осі
 
-Один простір імен `modus/`, тег = тип сутності:
-`modus/vector` · `modus/goal` · `modus/value-stream` · `modus/capability` · `modus/domain` · `modus/principle` · `modus/adr` · `modus/catalog` · `modus/persona` · `modus/meta`
+Теги не дублюють папки. Кожна нотатка маркується **за трьома незалежними осями**, щоб той самий набір нотаток можна було розрізати по-різному:
 
-Додаткові статусні теги: `modus/asis/red` · `modus/asis/amber` · `modus/asis/green` — для As-Is оцінок.
+| Вісь | Формат | Навіщо |
+|---|---|---|
+| **Тип сутності** | `modus/type/goal` · `type/capability` · `type/domain` · `type/catalog` · `type/principle` · `type/adr` · `type/body` · `type/role` · `type/value-stream` · `type/vector` · `type/vision` · `type/moc` · `type/meta` | «що це» — відповідає полю `type` у frontmatter |
+| **Домен EA** | `modus/d01` … `modus/d07` | «чиє це» — до якого з 7 доменів належить. Сутність може мати кілька |
+| **Контур** | `modus/contour/govern` | правила і рішення (Принципи, ADR, органи) — контур навколо доменів, не рівень ієрархії |
+
+Плюс статусна вісь для доменів: `modus/asis/red` · `modus/asis/amber` · `modus/asis/green`.
+
+### Як показати розмежування доменів у графі
+
+`Settings → Appearance → Graph view → Groups` (або панель Groups у самому графі). Додайте 7 груп із запитами і кольорами:
+
+| Запит | Колір | Домен |
+|---|---|---|
+| `tag:#modus/d01` | 🟠 `#FF5800` | Strategy |
+| `tag:#modus/d02` | 🟢 `#22C55E` | Business |
+| `tag:#modus/d03` | 🔵 `#38BDF8` | Data & AI |
+| `tag:#modus/d04` | 🟣 `#818CF8` | Application |
+| `tag:#modus/d05` | 🟡 `#F59E0B` | Technology |
+| `tag:#modus/d06` | 🔴 `#EF4444` | Security |
+| `tag:#modus/d07` | 🟤 `#A16207` | People & Culture |
+
+Порядок груп важливий: нотатка з кількома доменними тегами бере колір **першої** групи, що збіглася. Тому D01 (стратегія) ставиться першою — цілі й вектори лишаються помаранчевими, попри те що вони також належать тематичним доменам.
+
+Ще два корисні запити: `tag:#modus/contour/govern` (усе, що є правилом) і `tag:#modus/type/catalog` (усі 10 каталогів).
+
+Локальний граф однієї нотатки (`Ctrl+E` → іконка графа) показує її сусідство — це і є «навіщо» кожного ребра.
 
 ## Шкала зрілості (maturity)
 

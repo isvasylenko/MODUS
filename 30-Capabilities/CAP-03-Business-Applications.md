@@ -3,10 +3,10 @@ id: CAP-03
 type: capability
 status: active
 maturity: 4
-owner: "[[Vygodski-O]]"
+owner: "[[ROLE-04-Head-of-Enterprise-Apps]]"
 domains: ["[[D04-Application]]"]
 supports: ["[[VS-02-Deliver-Solutions]]", "[[VS-04-Develop-Products]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d04]
 aliases: [Business Applications]
 ---
 

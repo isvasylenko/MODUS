@@ -2,10 +2,10 @@
 id: CAT-01
 type: catalog
 status: draft
-owner: "[[Ivanov-S]]"
+owner: "[[ROLE-02-Head-of-PMO]]"
 describes: ["[[D02-Business]]"]
 update_cadence: щоквартально
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d02]
 aliases: [Capabilities Catalog]
 ---
 
@@ -19,12 +19,12 @@ aliases: [Capabilities Catalog]
 |---|---|
 | Capability (L1/L2) | Назва і рівень |
 | Зрілість 1–5 | Оцінка + дата |
-| Власник | Persona |
+| Власник | Роль (не людина) |
 | Референси | Проєкти-докази для sales |
 
 ## Власник і ритм оновлення
 
-- Власник: [[Ivanov-S]] (Business domain) · Оновлення: щоквартально, review на exec-форумі
+- Власник: [[ROLE-02-Head-of-PMO]] (Business domain) · Оновлення: щоквартально, review на exec-форумі
 
 ## Використання
 

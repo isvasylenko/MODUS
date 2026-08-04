@@ -5,7 +5,7 @@ status: draft
 owner: 
 describes: []
 update_cadence: ""
-tags: [modus/catalog]
+tags: [modus/type/catalog]
 aliases: []
 ---
 

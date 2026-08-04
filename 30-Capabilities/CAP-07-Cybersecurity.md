@@ -3,10 +3,10 @@ id: CAP-07
 type: capability
 status: active
 maturity: 4
-owner: "[[Yaroshenko-R]]"
+owner: "[[ROLE-06-CISO]]"
 domains: ["[[D06-Security]]"]
 supports: ["[[VS-05-Protect-24x7]]", "[[VS-02-Deliver-Solutions]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d06]
 aliases: [Cybersecurity]
 ---
 

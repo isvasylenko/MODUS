@@ -2,10 +2,10 @@
 id: CAT-05
 type: catalog
 status: draft
-owner: "[[Vygodski-O]]"
+owner: "[[ROLE-04-Head-of-Enterprise-Apps]]"
 describes: ["[[D04-Application]]"]
 update_cadence: щоквартально
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d04]
 aliases: [Application Portfolio]
 ---
 
@@ -24,7 +24,7 @@ aliases: [Application Portfolio]
 
 ## Власник і ритм оновлення
 
-- Власник: [[Vygodski-O]] · Оновлення: щоквартально, портфельний review на exec-форумі
+- Власник: [[ROLE-04-Head-of-Enterprise-Apps]] · Оновлення: щоквартально, портфельний review на exec-форумі
 
 ## Використання
 

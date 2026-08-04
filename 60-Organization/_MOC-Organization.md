@@ -1,46 +1,51 @@
 ---
 type: moc
-tags: [modus/meta]
-aliases: [Організація, Organization]
+tags: [modus/type/moc, modus/d07]
+aliases: [Організація, Organization, Ролі]
 ---
 
 # 👥 Organization — MOC
 
-Оргюніти та персони-власники. Зв'язка: домен → підрозділ → persona. Дані верифіковано з modusx.digital/about-us + LinkedIn (липень 2026); валідуються у фазі AUDIT.
+Оргюніти та **ролі**-власники. Зв'язка: `Домен → Оргюніт → Посада → Роль`.
 
-## Leadership
+> **Персональні дані у vault не зберігаються.** Власником сутності є роль, а не людина: носій змінюється — модель лишається. Це не лише про приватність — це умова того, щоб governance пережив ротацію. Тип `persona` у [[Semantic-Model|метамоделі]] залишений як канонічний (TOGAF *Actor*), але без екземплярів.
 
-| Persona | Роль | Домен |
+## Ролі-власники доменів
+
+| Роль | Оргюніт | Домен |
 |---|---|---|
-| [[Osyka-D]] | CEO MODUS X / CIO ДТЕК | [[D01-Strategy]] |
-| [[Vyntu-V]] | CDO | [[D03-Data-AI]] |
-| [[Vygodski-O]] | Head of Enterprise Apps & Dev | [[D04-Application]] |
-| [[Garkavyi-D]] | Head of Infrastructure | [[D05-Technology]] |
-| [[Yaroshenko-R]] | CISO (з 2026) | [[D06-Security]] |
-| [[Ivanov-S]] | Head of PMO | [[D02-Business]] |
-| [[Katsiuba-S]] | HR Lead | [[D07-People-Culture]] |
+| [[ROLE-01-CEO]] | CEO office · Стратегічне планування | [[D01-Strategy]] |
+| [[ROLE-02-Head-of-PMO]] | PMO · Delivery | [[D02-Business]] |
+| [[ROLE-03-CDO]] | Chief Data Office | [[D03-Data-AI]] |
+| [[ROLE-04-Head-of-Enterprise-Apps]] | Enterprise Apps & Technologies · Business Applications | [[D04-Application]] |
+| [[ROLE-05-Head-of-Infrastructure]] | Infrastructure & Cloud | [[D05-Technology]] |
+| [[ROLE-06-CISO]] | Cybersecurity · SOC · DevSecOps | [[D06-Security]] |
+| [[ROLE-07-HR-Lead]] | HR · Talent Acquisition · Communications · DTEK Academy | [[D07-People-Culture]] |
 
-## C-level, відсутні в первинній розвідці (верифіковано modusx.digital/about-us)
+## Ролі другого рівня
 
-| Persona | Роль |
+| Роль | Оргюніт |
 |---|---|
-| Годованюк Ірина | Chief Commercial Officer |
-| Тихонов Андрій | Chief Delivery Officer of Digital Projects |
-| Пустовітов Олексій | Chief Delivery Officer of Managed Services |
+| [[ROLE-08-Head-of-IT-Operations]] | IT Operations · Service Delivery |
+| [[ROLE-09-Head-of-SAP-Practice]] | SAP Practice |
+| [[ROLE-10-Head-of-Managed-Services]] | Managed Services · Sales |
+| [[ROLE-11-Data-Governance-Lead]] | Chief Data Office · AI CoE |
+| [[ROLE-12-Head-of-Technical-Support]] | Technical Support |
 
-## Другий рівень
+## Цільова роль
 
-| Persona | Роль |
-|---|---|
-| [[Maliarenko-S]] | Head of SAP |
-| [[Safonov-O]] | Head of IT Operations and Service Delivery |
-| [[Chuzhda-V]] | Data Governance / AI CoE (не верифіковано на about-us) |
-| [[Leshchynskyi-O]] | Managed Services / Sales ⚠️ не верифіковано на about-us |
-| [[Grebenetskyi-V]] | Head of Technical Support |
+- [[ROLE-13-IT-Strategy-Governance-Leader]] — власник [[CAP-11-IT-Governance-Architecture]], chair [[ARB]], секретар [[QBR]]
+- **CTO** — вакантна позиція на момент розвідки (08.2026)
 
-## Вакансії / кандидат
+## Ролі governance
 
-- **CTO — вакантно**
-- [[Vasylenko-Y]] — кандидат на IT Strategy & Governance Leader (автор цього vault)
+| Роль | Що робить | Де зафіксовано |
+|---|---|---|
+| **Domain Owner** | Відповідає за As-Is / To-Be свого домену і за його каталоги | [[_MOC-EA]] |
+| **ARB Chair** | Веде [[ARB]], відповідає за якість [[_MOC-ADR\|ADR]] | [[ARB]] |
+| **BRM** | Гейт «чи варто»: оформлює попит у бізнес-кейс, веде value realization | [[Semantic-Model]] |
+| **Benefit Owner** | Іменований власник бенефіту після go-live | [[Semantic-Model]] |
 
-> 12+ оргюнітів розподілені по доменах — див. `org_units` у frontmatter кожного домену [[_MOC-EA]].
+```dataview
+TABLE unit AS "Оргюніт", owns_domains AS "Домени" FROM "60-Organization/Roles" WHERE type = "role" SORT id
+```

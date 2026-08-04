@@ -4,8 +4,8 @@ type: vector
 status: active
 goals: ["[[GOAL-04-Product-Portfolio]]"]
 enabled_by: ["[[CAP-09-Product-Management]]", "[[CAP-03-Business-Applications]]"]
-owner: "[[Osyka-D]]"
-tags: [modus/vector]
+owner: "[[ROLE-01-CEO]]"
+tags: [modus/type/vector, modus/d01, modus/d02, modus/d04]
 aliases: [Service to Product]
 ---
 

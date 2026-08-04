@@ -6,7 +6,7 @@ date:
 decided_by: "[[ARB]]"
 affects: []
 principles: []
-tags: [modus/adr]
+tags: [modus/type/adr, modus/contour/govern]
 aliases: []
 ---
 

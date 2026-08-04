@@ -1,6 +1,6 @@
 ---
 type: moc
-tags: [modus/meta]
+tags: [modus/type/moc]
 aliases: [MODUS Home, Головна]
 ---
 
@@ -17,7 +17,7 @@ Vault для проєктування IT Strategy & Governance у **MODUS X**. �
 3. 🧩 [[_MOC-Capability-Map|Capability Map]] — які здатності це уможливлюють
 4. 🏛 [[_MOC-EA|EA · 7 доменів]] — на чому здатності стоять (As-Is assessment)
 5. ⚖️ [[_MOC-Governance|Governance]] — як приймаються і фіксуються рішення
-6. 👥 [[_MOC-Organization|Організація]] — хто власники
+6. 👥 [[_MOC-Organization|Організація]] — які ролі чим володіють
 
 ## Ключові нотатки
 
@@ -36,3 +36,4 @@ Vault для проєктування IT Strategy & Governance у **MODUS X**. �
 - [ ] Деталізація L2 capabilities
 - [ ] Наповнення каталогів реальними записами
 - [ ] Architecture Principles 6–8 (зараз 2 драфти)
+- [x] Знеособлення моделі: власник = роль, не людина

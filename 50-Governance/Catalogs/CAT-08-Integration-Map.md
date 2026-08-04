@@ -2,10 +2,10 @@
 id: CAT-08
 type: catalog
 status: draft
-owner: "[[Vygodski-O]]"
+owner: "[[ROLE-04-Head-of-Enterprise-Apps]]"
 describes: ["[[D04-Application]]", "[[D05-Technology]]"]
 update_cadence: "за зміною"
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d04, modus/d05]
 aliases: [Integration Map]
 ---
 
@@ -24,4 +24,4 @@ aliases: [Integration Map]
 
 ## Власник і ритм оновлення
 
-- Власник: [[Vygodski-O]] · Оновлення: при кожній новій інтеграції (gate у [[ARB]])
+- Власник: [[ROLE-04-Head-of-Enterprise-Apps]] · Оновлення: при кожній новій інтеграції (gate у [[ARB]])

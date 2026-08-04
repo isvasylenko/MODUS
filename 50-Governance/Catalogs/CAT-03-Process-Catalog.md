@@ -2,10 +2,10 @@
 id: CAT-03
 type: catalog
 status: draft
-owner: "[[Ivanov-S]]"
+owner: "[[ROLE-02-Head-of-PMO]]"
 describes: ["[[D02-Business]]"]
 update_cadence: "за зміною"
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d02]
 aliases: [Process Catalog]
 ---
 
@@ -18,10 +18,10 @@ aliases: [Process Catalog]
 | Поле | Опис |
 |---|---|
 | Процес | SDLC / Incident / Change / Onboarding проєкту |
-| Власник | Persona |
+| Власник | Роль (не людина) |
 | Gates | Які перевірки вбудовані й де |
 | Метрики | Lead time, якість |
 
 ## Власник і ритм оновлення
 
-- Власник: [[Ivanov-S]] (PMO) · Оновлення: при зміні процесу, review щопівроку
+- Власник: [[ROLE-02-Head-of-PMO]] (PMO) · Оновлення: при зміні процесу, review щопівроку

@@ -2,10 +2,10 @@
 id: CAT-07
 type: catalog
 status: draft
-owner: "[[Vyntu-V]]"
+owner: "[[ROLE-03-CDO]]"
 describes: ["[[D03-Data-AI]]"]
 update_cadence: "за зміною"
-tags: [modus/catalog]
+tags: [modus/type/catalog, modus/d03]
 aliases: [Semantic Model Catalog]
 ---
 
@@ -20,11 +20,11 @@ aliases: [Semantic Model Catalog]
 | Сутність / метрика | Напр. "клієнт", "виторг проєкту", "активний користувач" |
 | Визначення | Однозначне, погоджене |
 | Формула | Для метрик |
-| Власник визначення | Persona |
+| Власник визначення | Роль |
 
 ## Власник і ритм оновлення
 
-- Власник: [[Vyntu-V]] (CDO) · Оновлення: через change request, погодження на [[ARB]]
+- Власник: [[ROLE-03-CDO]] (CDO) · Оновлення: через change request, погодження на [[ARB]]
 
 ## Використання
 

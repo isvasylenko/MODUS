@@ -3,10 +3,10 @@ id: CAP-09
 type: capability
 status: active
 maturity: 2
-owner: "[[Osyka-D]]"
+owner: "[[ROLE-01-CEO]]"
 domains: ["[[D02-Business]]"]
 supports: ["[[VS-04-Develop-Products]]"]
-tags: [modus/capability]
+tags: [modus/type/capability, modus/d02]
 aliases: [Product Management]
 ---
 
