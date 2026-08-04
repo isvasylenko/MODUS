@@ -45,4 +45,4 @@ aliases: [People & Culture Domain]
 
 ## Артефакти / каталоги
 
-- [[CAT-04-Persona-Catalog]] · Governance NPS (метрика 90-day плану)
+- [[CAT-04-Role-Catalog]] · Governance NPS (метрика 90-day плану)

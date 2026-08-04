@@ -21,5 +21,5 @@ aliases: [CHRO]
 ## Роль у ланцюгу змін
 
 - Закріплює ролі, RACI та потрібні skills; відповідає за adoption нових правил роботи
-- Власник [[CAT-04-Persona-Catalog]] спільно з Governance Lead
+- Власник [[CAT-04-Role-Catalog]] спільно з Governance Lead
 - EA skills framework як частина програми навчання

@@ -6,10 +6,10 @@ owner: "[[ROLE-07-CHRO]]"
 describes: ["[[D07-People-Culture]]"]
 update_cadence: "за зміною"
 tags: [modus/type/catalog, modus/d07]
-aliases: [Persona Catalog, Role Catalog]
+aliases: [Role Catalog, Каталог ролей]
 ---
 
-# CAT-04 · Persona Catalog
+# CAT-04 · Role Catalog
 
 > Хто за що відповідає: ролі, посади і RACI по 7 доменах. Джерело правди — [[_MOC-Organization]].
 

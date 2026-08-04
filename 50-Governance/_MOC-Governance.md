@@ -34,7 +34,7 @@ aliases: [Governance, Operating Model]
 | [[CAT-01-Capabilities-Catalog]] | Що вміє компанія (основа продажу) |
 | [[CAT-02-Service-Catalog]] | Що продаємо (SLA, pricing) |
 | [[CAT-03-Process-Catalog]] | Як працюємо (SDLC, ITSM, delivery) |
-| [[CAT-04-Persona-Catalog]] | Хто відповідає (ролі, RACI) |
+| [[CAT-04-Role-Catalog]] | Хто відповідає (ролі, RACI) |
 | [[CAT-05-Application-Portfolio]] | 120 рішень (lifecycle, техборг) |
 | [[CAT-06-Data-Catalog]] | Де дані (власники, lineage) |
 | [[CAT-07-Semantic-Model]] | Що дані означають (єдині визначення) |
