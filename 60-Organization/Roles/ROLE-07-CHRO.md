@@ -4,11 +4,11 @@ type: role
 status: active
 unit: "HR · Talent Acquisition · Communications · DTEK Academy"
 owns_domains: ["[[D07-People-Culture]]"]
-tags: [modus/type/role, modus/d07, modus/d07]
-aliases: [HR Lead]
+tags: [modus/type/role, modus/d07]
+aliases: [CHRO]
 ---
 
-# ROLE-07 · HR Lead
+# ROLE-07 · CHRO
 
 **Оргюніт:** HR · Talent Acquisition · Communications · DTEK Academy
 

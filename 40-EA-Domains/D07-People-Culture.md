@@ -4,7 +4,7 @@ type: ea-domain
 status: active
 asis: red
 maturity: 2
-owner: "[[ROLE-07-HR-Lead]]"
+owner: "[[ROLE-07-CHRO]]"
 org_units: ["HR", "Talent Acquisition", "Communications", "DTEK Academy"]
 tags: [modus/type/domain, modus/d07, modus/asis/red]
 aliases: [People & Culture Domain]
@@ -23,7 +23,7 @@ aliases: [People & Culture Domain]
 
 | Підрозділ | Роль-власник |
 |---|---|
-| HR · Talent Acquisition · Communications · DTEK Academy | [[ROLE-07-HR-Lead]] |
+| HR · Talent Acquisition · Communications · DTEK Academy | [[ROLE-07-CHRO]] |
 
 ## Питання для діалогу
 

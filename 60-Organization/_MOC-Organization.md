@@ -20,7 +20,7 @@ aliases: [Організація, Organization, Ролі]
 | [[ROLE-04-Head-of-Enterprise-Apps]] | Enterprise Apps & Technologies · Business Applications | [[D04-Application]] |
 | [[ROLE-05-Head-of-Infrastructure]] | Infrastructure & Cloud | [[D05-Technology]] |
 | [[ROLE-06-CISO]] | Cybersecurity · SOC · DevSecOps | [[D06-Security]] |
-| [[ROLE-07-HR-Lead]] | HR · Talent Acquisition · Communications · DTEK Academy | [[D07-People-Culture]] |
+| [[ROLE-07-CHRO]] | HR · Talent Acquisition · Communications · DTEK Academy | [[D07-People-Culture]] |
 
 ## Ролі другого рівня
 

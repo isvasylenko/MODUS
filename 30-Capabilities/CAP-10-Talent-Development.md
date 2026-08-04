@@ -3,7 +3,7 @@ id: CAP-10
 type: capability
 status: active
 maturity: 3
-owner: "[[ROLE-07-HR-Lead]]"
+owner: "[[ROLE-07-CHRO]]"
 domains: ["[[D07-People-Culture]]"]
 supports: ["[[VS-02-Deliver-Solutions]]"]
 tags: [modus/type/capability, modus/d07]

@@ -20,7 +20,7 @@ Governance — **контур навколо доменів, а не восьм�
 | [[D04-Application]] | 🔴 | [[ROLE-04-Head-of-Enterprise-Apps]] | Перекладає capability у зміни застосунків; проходить [[ARB]], фіксує [[_MOC-ADR\|ADR]], керує lifecycle і техборгом |
 | [[D05-Technology]] | 🟡 | [[ROLE-05-Head-of-Infrastructure]] | Забезпечує платформу, операційну готовність і стійкість: BCP/DR, RTO/RPO, CMDB, Cloud Governance, FinOps |
 | [[D06-Security]] | 🟡 | [[ROLE-06-CISO]] | Вбудовує ризики й контролі в кожен етап: від бізнес-кейсу і design до SDLC, експлуатації й compliance |
-| [[D07-People-Culture]] | 🔴 | [[ROLE-07-HR-Lead]] | Закріплює ролі, RACI та потрібні skills; забезпечує комунікацію, навчання й adoption нових правил роботи |
+| [[D07-People-Culture]] | 🔴 | [[ROLE-07-CHRO]] | Закріплює ролі, RACI та потрібні skills; забезпечує комунікацію, навчання й adoption нових правил роботи |
 
 Легенда: 🟢 розвинено · 🟡 частково · 🔴 потребує уваги. Оцінки — гіпотези зовнішньої розвідки, валідуються у фазі AUDIT.
 

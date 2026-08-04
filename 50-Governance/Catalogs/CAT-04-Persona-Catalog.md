@@ -2,7 +2,7 @@
 id: CAT-04
 type: catalog
 status: draft
-owner: "[[ROLE-07-HR-Lead]]"
+owner: "[[ROLE-07-CHRO]]"
 describes: ["[[D07-People-Culture]]"]
 update_cadence: "за зміною"
 tags: [modus/type/catalog, modus/d07]
@@ -27,7 +27,7 @@ aliases: [Persona Catalog, Role Catalog]
 
 ## Власник і ритм оновлення
 
-- Власник: [[ROLE-07-HR-Lead]] спільно з [[ROLE-13-IT-Strategy-Governance-Leader|Governance Lead]] · Оновлення: при зміні оргструктури або RACI
+- Власник: [[ROLE-07-CHRO]] спільно з [[ROLE-13-IT-Strategy-Governance-Leader|Governance Lead]] · Оновлення: при зміні оргструктури або RACI
 
 ## Ролі в моделі
 
